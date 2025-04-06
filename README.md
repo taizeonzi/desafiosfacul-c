@@ -1,5 +1,5 @@
 ## Desafio de jogo "Super Trunfo", desenvolvido na Linguagem de Programação C, na IDE VSCode.
-## 📌 Projeto desenvolvido no curso Análise e Desenvolvimento de Sistemas, na disciplina Introdução à Programação de Computadores.
+### 📌 Projeto desenvolvido no curso Análise e Desenvolvimento de Sistemas, na disciplina Introdução à Programação de Computadores.
 O tema do jogo é "Países". No jogo Super Trunfo, os jogadores comparam as propriedades das cartas para determinar a mais forte.
 O desafio está dividido em três níveis: Novato, Aventureiro e Mestre, com cada nível adicionando mais complexidade ao anterior. 
 
